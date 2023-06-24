@@ -1,4 +1,8 @@
 ## Hi there 👋
+It's nice that you visit us!<br>
+Feel free to check out our projects here on Github or visit our website for more great tech guides!
+
+
 
 <!--
 
